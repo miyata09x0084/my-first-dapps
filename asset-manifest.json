@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/my-first-dapps/static/css/main.443cbe83.chunk.css",
+    "main.js": "/my-first-dapps/static/js/main.7e5a6ea1.chunk.js",
+    "main.js.map": "/my-first-dapps/static/js/main.7e5a6ea1.chunk.js.map",
+    "runtime-main.js": "/my-first-dapps/static/js/runtime-main.e6f4343d.js",
+    "runtime-main.js.map": "/my-first-dapps/static/js/runtime-main.e6f4343d.js.map",
+    "static/js/2.b745755a.chunk.js": "/my-first-dapps/static/js/2.b745755a.chunk.js",
+    "static/js/2.b745755a.chunk.js.map": "/my-first-dapps/static/js/2.b745755a.chunk.js.map",
+    "static/js/3.1414eae9.chunk.js": "/my-first-dapps/static/js/3.1414eae9.chunk.js",
+    "static/js/3.1414eae9.chunk.js.map": "/my-first-dapps/static/js/3.1414eae9.chunk.js.map",
+    "index.html": "/my-first-dapps/index.html",
+    "static/css/main.443cbe83.chunk.css.map": "/my-first-dapps/static/css/main.443cbe83.chunk.css.map",
+    "static/js/2.b745755a.chunk.js.LICENSE.txt": "/my-first-dapps/static/js/2.b745755a.chunk.js.LICENSE.txt",
+    "static/media/reset.css": "/my-first-dapps/static/media/font.617a0a92.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6f4343d.js",
+    "static/js/2.b745755a.chunk.js",
+    "static/css/main.443cbe83.chunk.css",
+    "static/js/main.7e5a6ea1.chunk.js"
+  ]
+}
