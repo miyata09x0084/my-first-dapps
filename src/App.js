@@ -200,7 +200,7 @@ function App() {
         flex={1}
         ai={"center"}
         style={{ padding: 24, backgroundColor: "var(--primary)" }}
-        image={CONFIG.SHOW_BACKGROUND ? "/config/images/bg.png" : null}
+        image={CONFIG.SHOW_BACKGROUND ? "https://raw.githubusercontent.com/miyata09x0084/my-first-dapps/gh-pages/config/images/bg.png" : null}
       >
         <StyledLogo alt={"logo"} src={"https://raw.githubusercontent.com/miyata09x0084/my-first-dapps/gh-pages/config/images/logo.png"} />
         <s.SpacerSmall />
