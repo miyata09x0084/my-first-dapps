@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x488Fe2ea88101D3A19dd0d29A3D2867C9D0D7a50",
+  "SCAN_LINK": "https://polygonscan.com/token/0x488Fe2ea88101D3A19dd0d29A3D2867C9D0D7a50",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Unbalanced Block",
+  "SYMBOL": "UB",
+  "MAX_SUPPLY": 20,
+  "WEI_COST": 500000000000000000,
+  "DISPLAY_COST": 0.5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "SHOW_BACKGROUND": true
+}
